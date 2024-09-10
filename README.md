@@ -1,5 +1,5 @@
 ## Hello there!   
 
-I'm a software engineer with expertise in both frontend and backend development.    
-I thrive on solving complex problems, improving products and keeping the end-user in mind.    
-Let me be your committed problem-solver, adding value to your team.
+Seasoned software engineer with over 5 years of experience in delivering cutting-edge products and solving complex problems. 
+Versatile professional with expertise in both front-end and back-end development, consistently focused on optimizing the end-user experience. 
+Proficient in NodeJS and React, with extensive experience in enhancing product performance. A committed problem-solver dedicated to adding value through technical skills and expertise.
